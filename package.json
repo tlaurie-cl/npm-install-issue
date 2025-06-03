@@ -1,0 +1,6 @@
+{
+  "name": "my-unique-package-name",
+  "scripts": {
+    "custom-install": "npm install"
+  }
+}
